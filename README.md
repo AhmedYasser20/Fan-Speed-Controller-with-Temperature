@@ -1,7 +1,8 @@
 # Temperature-Controlled Fan Controller
 <div style="text-align:center">
-<img src="https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/cf08154a-c28c-4899-b8fe-ef6f7855aa7c" alt="Designer" width="300">
+<img src="https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/5202787d-1959-47c2-8eed-fae92e63acd5" alt="Designer" width="300">
 </div>
+
 
 
 ## Table of Contents
@@ -63,7 +64,8 @@ The project has the following specifications:
 - The LCD will continuously display the current temperature and fan state.
 
 ## Project Structure
-![image](https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/bdd92b59-4c49-461f-84b1-53caadfab15b)
+![image](https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/2293e28d-b0bf-43cb-adb6-69148203aa46)
+
 
 - `main.c`: The main program that controls the temperature-controlled fan.
 - `drivers/`: Directory containing various drivers for ADC, GPIO, LCD, Temperature Sensor, and DC Motor.
@@ -75,7 +77,7 @@ The project has the following specifications:
 - `drivers/pwm.h`: The PWM driver for Timer0.
 
 ## Screen Shot
+![image](https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/4975f09d-e550-4049-a023-98fd44a573e7)
 
-![image](https://github.com/AhmedYasser20/Fan-Speed-Controller-with-Temperature/assets/93765400/5f13eb8d-a680-4fdb-80ab-628755a1cf1c)
 
 
